@@ -10,7 +10,6 @@ Code, Compile, Run and Debug online from anywhere in world.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <conio.h>
 
 char Playground[100][100];                                                      // define max Playground
 int sizei = 100, sizej = 100, i, j;                                             // declare, i for rows and j for columns
